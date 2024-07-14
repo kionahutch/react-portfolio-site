@@ -1,0 +1,33 @@
+/* 
+  File Name: App.css
+  Student's Name: Kiona Hutchins
+  StudentID: 301390962
+  Date: May 28, 2024
+*/
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  ul {
+    list-style: none;
+    display: flex;
+  }
+  
+  ul li {
+    margin-left: 20px;
+  }
+  
+  ul li a {
+    color: white;
+    text-decoration: none;
+  }

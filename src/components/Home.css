@@ -1,0 +1,56 @@
+/*
+  File Name: Home.css
+  Student's Name: Kiona Hutchins
+  StudentID: 301390962
+  Date: May 28, 2024
+*/
+
+.home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #f4f4f4;
+    padding: 20px;
+  }
+  
+  .home-content {
+    text-align: center;
+  }
+  
+  .home h1 {
+    font-size: 2.5em;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .home p {
+    font-size: 1.2em;
+    color: #666;
+    margin-bottom: 20px;
+  }
+  
+  .profile-pic {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 1px;
+    margin-top: 40px;
+  }
+  
+  button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }

@@ -1,0 +1,54 @@
+/*
+  File Name: Projects.css
+  Student's Name: Kiona Hutchins
+  StudentID: 301390962
+  Date: May 28, 2024
+*/
+
+.projects {
+  background-color: #f4f4f4;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+}
+
+.projects h1 {
+  font-size: 2.5em;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.projects-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; 
+  gap: 20px; 
+  max-width: 1900px; 
+  width: 100%;
+}
+
+.project {
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  width: 800px; 
+  text-align: center;
+  margin-left: 315px;
+
+}
+
+.project img {
+  
+  width: 100%; 
+  height: auto; 
+  border-bottom: 2px solid #ddd;
+}
+
+.project p {
+  padding: 15px;
+  font-size: 1em;
+  color: #555;
+  margin: 50; 
+}

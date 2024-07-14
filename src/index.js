@@ -1,3 +1,9 @@
+/* 
+  File Name: App.css
+  Student's Name: Kiona Hutchins
+  StudentID: 301390962
+  Date: May 28, 2024
+*/
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';

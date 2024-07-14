@@ -1,3 +1,9 @@
+/* 
+  File Name: App.css
+  Student's Name: Kiona Hutchins
+  StudentID: 301390962
+  Date: May 28, 2024
+*/
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
